@@ -1,5 +1,5 @@
 ---
-title: 'Tutoring'
+title: 'Academic Tutoring'
 collection: teaching
 type: 'Undergraduate/Graduate courses'
 permalink: /teaching/2022-spring-teaching-1
