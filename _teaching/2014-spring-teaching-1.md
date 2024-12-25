@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: 'Introduction to Algorithms - Teacher Assistant'
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: 'Undergraduate course'
+permalink: /teaching/2024-fall-teaching-1
+venue: 'Illinois Tech, Computer Science'
+date: 2014-09-01
+location: 'Chicago, Illinois'
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+# Heading 1
 
-Heading 2
-======
+# Heading 2
 
-Heading 3
-======
+# Heading 3
