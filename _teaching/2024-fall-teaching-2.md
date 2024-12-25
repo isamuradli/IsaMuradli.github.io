@@ -1,10 +1,10 @@
 ---
-title: 'Introduction to Algorithms - Teacher Assistant'
+title: 'Introduction to Algorithms - Teaching Assistant'
 collection: teaching
 type: 'Undergraduate course'
-permalink: /teaching/2024-fall-teaching-1
+permalink: /teaching/2024-fall-teaching-2
 venue: 'Illinois Tech, Computer Science'
-date: 2014-09-01
+date: 2024-09-01
 location: 'Chicago, Illinois'
 ---
 
