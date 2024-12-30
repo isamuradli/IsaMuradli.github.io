@@ -13,9 +13,9 @@ Most recently, I worked as an Associate Data Scientist at Pepco Holdings - Exelo
 
 Earlier in my career, I interned as a Data Engineer & Science Intern at Pepco Holdings, where I worked on data cleaning, performance evaluation, and SQL optimization. I also interned as a Software Engineer at Azerconnect LLC, where I focused on building APIs, enhancing scalability, and developing integration solutions for cloud-based systems.
 
-My technical skills include proficiency in programming languages such as Python, C/C++, Java, and JavaScript, as well as expertise in cloud technologies like Azure and AWS. I also have experience working with big data processing frameworks such as Hadoop and Spark. Throughout my academic projects, I have explored topics like decentralized peer-to-peer systems, process management in operating systems, and performance optimizations in large-scale systems.
+My technical skills include proficiency in programming languages such as Python, C/C++, Bash as well as expertise in cloud technologies like Azure and AWS. I also have experience working with big data processing frameworks such as Hadoop and Spark. Throughout my academic projects, I have explored topics like centralized/decentralized peer-to-peer systems, replication and data consistency, process management, and performance optimizations in large-scale systems.
 
-I am passionate about advancing research in memory systems and software engineering, and I am always looking for new ways to apply my knowledge and skills to real-world challenges.
+I am passionate about advancing research in distributed systems and making best use of existing data, and I am always looking for new ways to apply my knowledge and skills to real-world challenges.
 
 <!--
 ## How to edit your site's GitHub repository
