@@ -8,7 +8,7 @@ date: 2024-09-01
 location: 'Chicago, Illinois'
 ---
 
-- Led weekly lectures and recitations for an undergraduate Algorithms course, engaging 90 students and fostering a deeper understanding of algorithmic concepts and problem-solving techniques.
+- Led weekly recitations for an undergraduate Algorithms course, engaging 90 students and fostering a deeper understanding of algorithmic concepts and problem-solving techniques.
 
 - Hosted office hours, providing individualized support to students, addressing questions on lecture material, assignments, and exam preparation.
 
